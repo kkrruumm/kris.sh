@@ -1,0 +1,135 @@
+@font-face {
+  font-family: 'Dejavu Sans';
+  src: url(/fonts/dejavusans/DejaVuSans.woff2) format("woff2");
+}
+
+body {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: 'DejaVu Sans';
+  font-weight: 500;
+  line-height: 1.5;
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 58rem;
+  padding: 2rem;
+}
+
+header {
+  border-bottom: 0.2rem solid #ffffff;
+  margin-bottom: 2rem;
+}
+
+footer {
+  text-align: center;
+  border-top: 0.2rem solid #ffffff;
+  margin-top: 2rem;
+  border-bottom: 20rem;
+}
+
+a {
+  text-decoration: underline;
+  color: rgb(212, 0, 255);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.a2 {
+  text-decoration: none;
+}
+
+strong {
+  color: rgb(212, 0, 255);
+}
+
+.homeheader {
+  text-decoration: none;
+  font-size: 44px;
+  font-weight: 600;
+}
+
+.nav {
+  overflow: auto;
+  display: flex;
+  padding-bottom: 0.65rem;
+  text-decoration: none;
+}
+
+.top {
+  align-items: end;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navContent {
+  white-space: nowrap;
+  padding: 0 0.25em;
+  color: rgb(153, 0, 184);
+  text-decoration: none;
+}
+
+.activenavContent {
+  text-decoration: none;
+  color: rgb(212, 0, 255);
+}
+
+.highlight {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #1a1a1a;
+}
+
+.chroma {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #1a1a1a;
+}
+
+code {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+  font-size: 15px;
+  background-color: #1a1a1a;
+}
+
+h1 {
+  font-size: 24px;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
+h2 {
+  font-size: 32px;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
+h3 {
+  font-size: 28px;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
+.post {
+  margin-top: -1rem;
+  margin-bottom: 1rem;
+}
+
+.postDate {
+  margin-bottom: -1rem;
+}
+
+.tags {
+  margin-top: -1rem;
+  margin-bottom: -1rem;
+  margin-left: -2.5rem;
+  display: inline-block;
+  text-align: right;
+}

@@ -1,0 +1,12 @@
+<div class="top">
+    <a class="homeheader" href="/">{{ site.Title }}</a>
+        <div class="nav">
+            {{ range .Site.Menus.main }}
+                {{ $isActive := false }}
+                {{ if or ($.HasMenuCurrent .Menu .) (eq .Page $) }}
+                    {{ $isActive = true }}
+                {{ end }}
+                <a class="{{ if $isActive }}active{{ end }}navContent" href="{{ .URL }}">{{ .Name }}</a>
+            {{ end }}
+        </div>
+</div>

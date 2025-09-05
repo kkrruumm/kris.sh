@@ -1,0 +1,40 @@
+baseURL = 'https://kris.sh/'
+languageCode = 'en-us'
+title = 'kris.sh'
+
+[menus]
+  [[menus.main]]
+    name = '~/'
+    pageRef = '/'
+    weight = 1
+  [[menus.main]]
+    name = '~/blog'
+    pageRef = '/posts'
+    weight = 2
+  [[menus.main]]
+    name = '~/services'
+    pageRef = '/services'
+    weight = 3
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.x]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
+
+[markup]
+  [markup.highlight]
+    noClasses=false
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true

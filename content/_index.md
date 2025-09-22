@@ -34,11 +34,11 @@ This website was created with [Hugo](https://gohugo.io/) and is hosted with [Cad
 
 * A small Void Linux rootfs tarball bootstrap installer intended to deploy Void on Hetzner Cloud systems [->](https://github.com/kkrruumm/void-bootstrap-installer)
 
-* A small but growing collection of packages for [Kiss Linux Community](https://kisscommunity.bvnf.space/) [->](https://github.com/kkrruumm/basix)
-
 * A small collection of packages for [Void Linux](https://voidlinux.org) [->](https://github.com/kkrruumm/void-packages)
 
-* A POSIX shell installer/updater for [iw4x](https://iw4x.dev/) [->](https://github.com/kkrruumm/iw4x-updoot)
+* A POSIX shell installer/updater for [IW4x](https://iw4x.io/) [->](https://github.com/kkrruumm/iw4x-updoot)
+
+* A bot for the [IW4x](https://iw4x.io/) Discord server [->](https://github.com/iw4x/iw4x-discord-go-bot)
 
 * This website [->](https://github.com/kkrruumm/kris.sh)
 

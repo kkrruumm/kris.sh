@@ -40,6 +40,8 @@ This website was created with [Hugo](https://gohugo.io/) and is hosted with [Cad
 
 * A bot for the [IW4x](https://iw4x.io/) Discord server [->](https://github.com/iw4x/iw4x-discord-go-bot)
 
+* A portable utility script for shrinking an IW4x installation for server hosts [->](https://github.com/iw4x/shrink)
+
 * This website [->](https://github.com/kkrruumm/kris.sh)
 
 # Socials

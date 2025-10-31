@@ -18,6 +18,8 @@ I occasionally create, correct, and/or maintain documentation and packages for o
 
 I am an administrator on the [procursus.social](https://procursus.social) Mastodon instance, as well on the [JustSome.Photos](https://justsome.photos) Pixelfed instance.
 
+I am currently staff @ [IW4x](https://iw4x.io/)
+
 Information about public services I host can be found on the [services page](/services).
 
 This website was created with [Hugo](https://gohugo.io/) and is hosted with [Caddy](https://caddyserver.com/) on a server running [Void Linux](https://voidlinux.org/).
@@ -38,7 +40,7 @@ This website was created with [Hugo](https://gohugo.io/) and is hosted with [Cad
 
 * A POSIX shell installer/updater for [IW4x](https://iw4x.io/) [->](https://github.com/kkrruumm/iw4x-updoot)
 
-* A bot for the [IW4x](https://iw4x.io/) Discord server [->](https://github.com/iw4x/iw4x-discord-go-bot)
+* A bot for the IW4x Discord server [->](https://github.com/iw4x/iw4x-discord-go-bot)
 
 * A portable utility script for shrinking an IW4x installation for server hosts [->](https://github.com/iw4x/shrink)
 
@@ -47,8 +49,6 @@ This website was created with [Hugo](https://gohugo.io/) and is hosted with [Cad
 # Socials
 
 * Procursus Mastodon [->](https://procursus.social/@krum)
-
-* Fosstodon Mastodon [->](https://fosstodon.org/@krum)
 
 * JustSome.Photos Pixelfed [->](https://justsome.photos/@krum)
 

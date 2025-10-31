@@ -34,7 +34,7 @@ The changes have been kept minimal, so far:
 * Disable/remove a handful of engines by default due to NSFW search results from normal queries / captchas 
 * Default to the black theme
 
-This instance is not kept bleeding edge, but I do sync with upstream frequently.
+This instance is far from bleeding edge, but I do sync with upstream fairly regularly.
 
 # ip.kris.sh
 

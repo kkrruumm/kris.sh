@@ -18,7 +18,7 @@ I occasionally create, correct, and/or maintain documentation and packages for o
 
 I am an administrator on the [procursus.social](https://procursus.social) Mastodon instance, as well on the [JustSome.Photos](https://justsome.photos) Pixelfed instance.
 
-I am currently staff @ [IW4x](https://iw4x.io/)
+I am currently staff @ [IW4x](https://iw4x.io/).
 
 Information about public services I host can be found on the [services page](/services).
 

@@ -44,6 +44,8 @@ This website was created with [Hugo](https://gohugo.io/) and is hosted with [Cad
 
 * A portable utility script for shrinking an IW4x installation for server hosts [->](https://github.com/iw4x/shrink)
 
+* An RCON client for IW4x written in go [->](https://github.com/kkrruumm/iw4x-rcon)
+
 * This website [->](https://github.com/kkrruumm/kris.sh)
 
 # Socials

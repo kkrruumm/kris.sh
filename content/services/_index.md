@@ -6,35 +6,29 @@ draft = false
 
 ## About
 
-I host a few public facing services, which tend to be privacy related. 
+I host a few public facing services.
 
-The list of things here should grow as time goes on.
+As for my game servers- all of them are run on entirely reasonable hardware for the task. I do not use irrationally overkill and expensive hardware for the sake of marketing.
 
-These services are open for anyone to use, but there are a few things to keep in mind: 
+# IW4x servers
 
-* These services are all logless.
+At the moment, I am running several IW4x servers- known as "krummy servers."
 
-* There is no way for me to prove to you that they are logless.
+- krummy Global Thermonuclear War:
+    - `87.99.141.49:28963`
 
-* As with all other hosts, I could *very* easily log IP addresses or collect more specific information at will.
+- krummy 6v6 Search and Destroy:
+    - `87.99.141.49:28961`
 
-* Sounds scary? **It should.** The best approach here is to self-host things, as I am doing with these for myself and choose to make them public. The only thing I can tell you is "take my word for it," similar to other "privacy focused" things such as VPN services.
+- krummy 6v6 Team Deathmatch:
+    - `87.99.141.49:28960`
 
-* **Do not do anything with these services that can be considered illegal in Germany.** 
+- krummy Gun Game:
+    - `87.99.141.49:28962`
 
-# SearXNG
+All of these servers have the vanilla MW2 DLC maps enabled.
 
-I host a SearXNG metasearch engine instance [here](https://search.kris.sh/).
-
-This instance of SearXNG has been slightly modified, and the source code for this fork exists [here](https://github.com/kkrruumm/searxng).
-
-The changes have been kept minimal, so far:
-
-* Enable favicon resolving by default
-* Disable/remove a handful of engines by default due to NSFW search results from normal queries / captchas 
-* Default to the black theme
-
-This instance is far from bleeding edge, but I do sync with upstream fairly regularly.
+As of the time of writing, these servers are US-East.
 
 # ip.kris.sh
 

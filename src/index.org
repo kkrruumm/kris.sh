@@ -1,0 +1,66 @@
+#+TITLE: kris.sh
+#+OPTIONS: toc:nil num:nil author:nil timestamp:nil
+
+** About
+:PROPERTIES:
+:CUSTOM_ID: about
+:END:
+Hey! My name is Kris.
+
+I like free (as in freedom) open source software, networking, and cybersecurity.
+
+I upload the occasional video to [[https://www.youtube.com/@krumothyy][my YouTube channel]] that may align with a [[/posts][blog post]] here, both of which are typically related to Linux systems administration or security.
+
+I create and maintain various things on [[https://github.com/kkrruumm][my Github]], typically in shell script.
+
+I occasionally create, correct, and/or maintain documentation and packages for open source projects.
+
+I am an administrator on the [[https://procursus.social][procursus.social]] Mastodon instance, as well on the [[https://justsome.photos][JustSome.Photos]] Pixelfed instance.
+
+I am currently staff @ [[https://iw4x.io/][IW4x]].
+
+Information about public services I host can be found on the [[/services][services page]].
+
+This website was created with [[https://www.gnu.org/savannah-checkouts/gnu/emacs/emacs.html][Emacs]] and is hosted with [[https://caddyserver.com/][Caddy]] on a server running [[https://voidlinux.org/][Void Linux]].
+
+* Current projects
+:PROPERTIES:
+:CUSTOM_ID: current-projects
+:END:
+- A TUI Void Linux installer with an /array/ of features [[https://github.com/kkrruumm/void-install-script][->]]
+
+- A small POSIX shell UKI generator [[https://github.com/kkrruumm/buki][->]]
+
+- A script to turn a device into a wireless ethernet bridge on various Linux distros [[https://github.com/kkrruumm/wireless-eth-bridge][->]]
+
+- A shell script database library for other shell scripts that definitely isn't extremely cursed [[https://github.com/kkrruumm/bshdb][->]]
+
+- A small Void Linux rootfs tarball bootstrap installer intended to deploy Void on Hetzner Cloud systems [[https://github.com/kkrruumm/void-bootstrap-installer][->]]
+
+- A small collection of packages for [[https://voidlinux.org][Void Linux]] [[https://github.com/kkrruumm/void-packages][->]]
+
+- A POSIX shell installer/updater for [[https://iw4x.io/][IW4x]] [[https://github.com/kkrruumm/iw4x-updoot][->]]
+
+- A bot for the IW4x Discord server [[https://github.com/iw4x/iw4x-discord-go-bot][->]]
+
+- A portable utility script for shrinking an IW4x installation for server hosts [[https://github.com/iw4x/shrink][->]]
+
+- An RCON client for IW4x written in go [[https://github.com/kkrruumm/iw4x-rcon][->]]
+
+- This website [[https://github.com/kkrruumm/kris.sh][->]]
+
+* Socials
+:PROPERTIES:
+:CUSTOM_ID: socials
+:END:
+- Procursus Mastodon [[https://procursus.social/@krum][->]]
+
+- JustSome.Photos Pixelfed [[https://justsome.photos/@krum][->]]
+
+- Lemmy [[https://lemmy.ml/u/krum][->]]
+
+* Contact
+:PROPERTIES:
+:CUSTOM_ID: contact
+:END:
+- IRC: =kris_= on [[https://libera.chat/][Libera Chat]] or preferably [[https://oftc.net/][oftc]]

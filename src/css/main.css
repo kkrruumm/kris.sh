@@ -1,12 +1,13 @@
 @font-face {
-  font-family: 'Dejavu Sans';
+  font-family: 'DejaVu Sans';
   src: url(/fonts/dejavusans/DejaVuSans.woff2) format("woff2");
+  font-display: swap;
 }
 
 body {
   background-color: #000000;
   color: #ffffff;
-  font-family: 'DejaVu Sans';
+  font-family: 'DejaVu Sans', sans-serif;
   font-weight: 500;
   line-height: 1.5;
   margin-top: 2rem;
@@ -25,7 +26,7 @@ footer {
   text-align: center;
   border-top: 0.2rem solid #ffffff;
   margin-top: 2rem;
-  border-bottom: 20rem;
+  padding-top: 1rem;
 }
 
 a {
@@ -74,29 +75,32 @@ strong {
   color: rgb(212, 0, 255);
 }
 
-.highlight {
-  padding-top: 2px;
-  padding-bottom: 2px;
-  padding-left: 10px;
-  padding-right: 10px;
-  background-color: #1a1a1a;
-}
-
+.highlight,
 .chroma {
-  padding-top: 2px;
-  padding-bottom: 2px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding: 2px 10px;
   background-color: #1a1a1a;
 }
 
 code {
-  padding-top: 2px;
-  padding-bottom: 2px;
-  padding-left: 2px;
-  padding-right: 2px;
+  padding: 2px 2px;
   font-size: 15px;
   background-color: #1a1a1a;
+}
+
+pre {
+  background-color: #1a1a1a;
+  padding: 10px;
+  overflow: auto;
+}
+
+pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 h1 {
@@ -127,9 +131,28 @@ h3 {
 }
 
 .tags {
-  margin-top: -1rem;
-  margin-bottom: -1rem;
-  margin-left: -2.5rem;
   display: inline-block;
-  text-align: right;
+}
+
+.tags ul {
+  display: inline;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.tags ul a {
+  font-size: 15px;
+}
+
+/* Hide the Org document title; titles are rendered explicitly per page. */
+.title {
+  display: none;
+}
+
+/* Org wraps the preamble/postamble in status divs; keep them flush. */
+#preamble,
+#postamble {
+  margin: 0;
+  padding: 0;
 }

@@ -1,0 +1,19 @@
+#+TITLE: posts | kris.sh
+#+OPTIONS: toc:nil num:nil author:nil timestamp:nil
+
+#+BEGIN_EXPORT html
+<p class="postDate">Apr 12, 2026</p>
+<h2 class="post"><a href="/posts/alpine-diskless-install/">Alpine Linux 'diskless' install</a></h2>
+<p class="postDate">Jul 30, 2025</p>
+<h2 class="post"><a href="/posts/what-distro/">What Linux distro should I use?</a></h2>
+<p class="postDate">Feb 16, 2024</p>
+<h2 class="post"><a href="/posts/diy-mesh-router/">DIY Mesh Router</a></h2>
+<p class="postDate">Feb 4, 2024</p>
+<h2 class="post"><a href="/posts/msi-motherboard-woes/">MSI Motherboard Woes</a></h2>
+<p class="postDate">Jan 24, 2024</p>
+<h2 class="post"><a href="/posts/alpine-encrypted-uki/">Alpine Linux encrypted UKI install</a></h2>
+<p class="postDate">Jan 17, 2024</p>
+<h2 class="post"><a href="/posts/sbctl-secure-boot/">Secure Boot on Linux with sbctl</a></h2>
+<p class="postDate">Jan 1, 2024</p>
+<h2 class="post"><a href="/posts/alpine-efistub-encryption/">Alpine Linux with efistub and encryption</a></h2>
+#+END_EXPORT
